@@ -1,0 +1,677 @@
+Git
+Less
+CSS
+HTML
+Английский язык
+JavaScript
+CSS
+HTML
+React
+JavaScript
+ASP.NET
+CSS
+AngularJS
+HTML
+Git
+JavaScript
+Atlassian Jira
+Symfony
+PHP5
+PHP
+Slim
+PHP7
+PSR
+Doctrine
+JavaScript
+верстать
+TypeScript
+React
+SSR
+Next.js
+Redux
+SEO Optimization
+JavaScript
+WebSocket
+Git
+HTML5
+CSS3
+SCSS
+JavaScript
+HTML
+CSS
+Git
+AngularJS
+JavaScript
+CSS
+Frontend
+React
+HTML
+Software Development
+Design Patterns
+JavaScript
+JavaScript
+HTML
+Ajax
+HTML5
+CSS
+React
+Английский — B2 — Средне-продвинутый
+JavaScript
+Git
+PHP
+PHP
+Linux
+SQL
+JavaScript
+Git
+PHP5
+PHP
+MVC
+SQL
+Git
+Docker
+JavaScript
+VUE
+JSON API
+ООП
+HTML
+CSS
+HTML5
+CSS3
+Git
+Linux
+Работа в команде
+Redux
+Webpack
+Docker
+ReactJS
+Git
+CSS
+Bootstrap
+JavaScript
+ReactJS
+Redux
+Typescript
+REST
+Multithread Programming
+Software Development
+Web Application Development
+JavaScript
+MySQL
+CSS
+HTML
+PostgreSQL
+CRM
+PHP
+PWA
+JavaScript
+Node.js
+Git
+MVC
+CSS
+CSS3
+HTTP
+HTML
+HTML5
+Bootstrap
+Ajax
+jQuery
+Работа в команде
+Творческое мышление
+JavaScript
+Git
+CSS
+Django Framework
+CSS3
+React
+HTML
+Английский — B2 — Средне-продвинутый
+JavaScript
+Node.js
+Git
+HTML5
+CSS
+Английский язык
+HTML
+UI
+PHP
+Веб-программирование
+Серверное программирование
+Web-дизайн
+Java
+HTML5
+CSS
+JavaScript
+Vue.js
+React
+SCSS/SASS
+Git
+TypeScript
+Node.js
+jQuery
+MySQL
+PHP
+JavaScript
+HTML
+CSS
+Yii2
+Английский — C1 — Продвинутый
+JavaScript
+jQuery
+CSS3
+HTML5
+Node.js
+JavaScript
+ООП
+MongoDB
+MySQL
+React
+TypeScript
+PHP
+HTML
+JavaScript
+CSS
+jQuery
+MySQL
+Agile Project Management
+JavaScript
+PostgreSQL
+Scrum
+HTML5
+Английский — A2 — Элементарный
+JavaScript
+AngularJS
+TipeScript
+SCSS
+JavaScript
+Node.js
+JavaScript
+Git
+AngularJS
+Английский язык
+Английский — B1 — Средний
+Git
+iOS
+Английский язык
+React Native
+React
+CI/CD
+App Store
+REST API
+JavaScript
+Firebase
+PostgreSQL
+Vue.js
+Svelte
+GraphQL/Apollo
+Node.js
+Google Analytics
+Яндекс.Метрика
+PHP
+HTML
+CSS
+Git
+MySQL
+PostgreSQL
+Yii
+Symfony
+Unix
+MVC
+Redis
+Memcached
+Английский — B1 — Средний
+JavaScript
+React
+React Hooks
+Redux
+Webpack
+Docker
+TypeScript
+Material UI
+Английский — B1 — Средний
+Git
+iOS
+Английский язык
+React Native
+React
+CI/CD
+App Store
+REST API
+JavaScript
+Firebase
+JavaScript
+HTML5
+CSS3
+ReactJS
+Git
+Английский — B1 — Средний
+Git
+iOS
+Английский язык
+React Native
+React
+CI/CD
+App Store
+REST API
+JavaScript
+Firebase
+Английский — B1 — Средний
+Git
+iOS
+Английский язык
+React Native
+React
+CI/CD
+App Store
+REST API
+JavaScript
+Firebase
+Java
+JavaScript
+SQL
+React
+Typescript
+JavaScript
+CSS
+HTML5
+HTML
+Windows Xp
+Английский — B1 — Средний
+Git
+iOS
+Английский язык
+React Native
+React
+CI/CD
+App Store
+REST API
+JavaScript
+Firebase
+JavaScript
+Design Patterns
+Английский язык
+Node.js
+JavaScript
+Node.js
+CSS
+MongoDB
+HTML
+HTML5
+Less
+Git
+CSS3
+React
+JS
+JavaScript
+HTML5
+Angular
+JavaScript
+React
+CSS
+HTML
+CSS3
+GitHub
+immutableJs
+Bootstrap
+reselect
+NPM
+Webpack
+Sass
+JSON API
+JS
+JS (es6)
+Git
+jest
+enzyme
+JavaScript
+Git
+CSS
+HTML
+CSS3
+JavaScript
+Git
+CSS
+Английский язык
+Пользователь ПК
+React.js
+jQuery
+JavaScript
+CSS
+CSS3
+HTML5
+Английский — B1 — Средний
+JavaScript
+React
+Redux
+TypeScript
+HTML
+CSS
+Gitlab
+Gitlab CI
+AngularJS
+Websocket
+Английский — C1 — Продвинутый
+Высокая скорость печати
+Пользователь ПК
+reactjs
+typescript
+CSS
+Английский язык
+Умение работать в команде
+Организаторские навыки
+Управление проектами
+Английский — B1 — Средний
+JavaScript
+CSS
+HTML
+ООП
+Git
+Английский — B1 — Средний
+Atlassian Jira
+Agile Project Management
+JavaScript
+React
+CSS
+JavaScript
+HTML5
+CSS
+Git
+React
+TypeScript
+Redux
+Styled-components
+MS Word
+HTML
+JavaScript
+Английский — B2 — Средне-продвинутый
+FullStack
+JavaScript
+Node.js
+React.js
+microservices
+cloud services
+JavaScript
+HTML5
+HTML
+Git
+CSS3
+Английский — B1 — Средний
+JS
+PHP
+HTML
+CSS
+JavaScript
+CSS3
+HTML5
+Git
+jQuery
+Английский — B1 — Средний
+JavaScript
+React
+Redux
+TypeScript
+HTML
+CSS
+Gitlab
+Gitlab CI
+AngularJS
+Websocket
+JavaScript
+CSS3
+HTML5
+jQuery
+CSS
+AngularJS
+Adobe Illustrator
+Adobe Photoshop
+HTML
+JavaScript
+AngularJS
+Git
+SQL
+MS SQL
+Typescript
+Английский — B1 — Средний
+JavaScript
+React
+Redux
+TypeScript
+HTML
+CSS
+Gitlab
+Gitlab CI
+AngularJS
+Websocket
+CSS3
+HTML5
+Adobe Photoshop
+HTML
+Кроссбраузерная верстка
+jQuery
+JavaScript
+CSS
+HTML
+Ajax
+Английский — B2 — Средне-продвинутый
+JavaScript
+PHP5
+PHP
+PostgreSQL
+React
+Английский — A1 — Начальный
+Адекватность
+Ответственность
+Инициативность
+Желание развиваться
+HTML
+CSS
+JavaScript
+PHP
+MySQL
+CS-Cart
+Git
+CSS
+Bootstrap
+JavaScript
+ReactJS
+Redux
+Typescript
+REST
+Multithread Programming
+Software Development
+Web Application Development
+Английский — B1 — Средний
+JavaScript
+React
+Redux
+TypeScript
+HTML
+CSS
+Gitlab
+Gitlab CI
+AngularJS
+Websocket
+JavaScript
+SQL
+CRM
+Бизнес-анализ
+MS SQL
+Web API
+Webpack
+Git
+Backend
+Frontend
+Business Intelligence Systems
+mobx
+CSS3
+JavaScript
+MySQL
+HTML5
+PHP
+Bootstrap
+CMS Wordpress
+HTML
+CSS
+Adobe Photoshop
+Работа с базами данных
+Администрирование сайтов
+phpMyAdmin
+Веб-программирование
+Кроссбраузерная верстка
+Грамотность
+JavaScript
+jQuery
+HTML
+CSS
+CSS3
+HTML5
+TypeScript
+JavaScript
+ReactJS
+CSS3
+HTML5
+HTML
+SaaS
+Webpack
+webview
+Английский — B1 — Средний
+JavaScript
+jQuery
+HTML5
+CSS3
+CSS
+Git
+JavaScript
+Typescript
+ReactJS
+Gulp
+Webpack
+HTML5
+CSS3
+Sass
+Stylus
+JavaScript
+HTML
+CSS
+jQuery
+Sass
+JavaScript
+HTML5
+CSS3
+Верстка
+Прототипирование
+UI
+CSS
+HTML
+Кроссбраузерная верстка
+JavaScript
+Angular 11
+RxJS
+REST API
+WebSocket
+Angular Material
+JavaScript
+HTML5
+CSS3
+React
+REST
+JavaScript
+React
+TypeScript
+CSS
+HTML
+HTML
+CSS
+JavaScript
+React
+JavaScript
+Английский — B1 — Средний
+Atlassian Jira
+Agile Project Management
+JavaScript
+React
+CSS
+vue.js
+CSS3
+JavaScript
+HTML5
+Git
+Python
+ООП
+JavaScript
+JavaScript
+HTML5
+HTML
+Git
+CSS3
+JavaScript
+CoffeeScript
+TypeScript
+SCSS
+CSS3
+Backbone
+React
+SPA
+REST
+Git
+Docker
+Bash
+BusyBox
+Jenkins
+JavaScript
+Node.js
+npm
+Git
+Проведение тестирований
+JavaScript
+CSS
+Английский язык
+Sass
+AngularJS
+Angular
+HTML
+Аналитический склад ума
+Навыки планирования
+JavaScript
+jQuery
+Git
+Ajax
+CSS
+React.js
+Redux
+Redux.saga
+React hooks
+Верстка не только в React-компонентах;
+Node.js
+JavaScript
+PostgreSQL
+SQL
+react
+Linux
+CSS3
+JavaScript
+HTML5
+AngularJS
+JavaScript
+HTML5
+C#
+AngularJS
+ООП
+Vue.js
+AngularJS
+CSS
+Git
+Linux
+PostgreSQL
+JavaScript
+Redmine
+HTML
+Ajax
+Web Application Development
+JavaScript
+jQuery
+HTML
+CSS
+CSS3
+HTML5
+TypeScript

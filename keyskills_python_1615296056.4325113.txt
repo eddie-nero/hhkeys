@@ -1,0 +1,572 @@
+Data Mining
+SQL
+Математическая статистика
+Python
+MS Power BI
+JavaScript
+Linux
+SQL
+Python
+Olap (online analytical processing)
+Data Mining
+Аналитическое мышление
+Базы данных
+Английский — B2 — Средне-продвинутый
+Python
+SQL
+DWH
+R
+SPSS
+Статистический анализ
+Statistica
+Аналитические исследования
+Маркетинговый анализ
+Прогнозирование
+Математическая статистика
+SQL
+Анализ бизнес показателей
+CRISP-DM
+Методы машинного обучения
+Английский язык
+Machine Learning
+Data Science
+Data Analysis
+Data Mining
+Big Data
+R-language
+Iron Python
+дистанционная работа
+Python
+Django Framework
+AngularJS
+Celery
+PostgreSQL
+DRF
+Python
+Linux
+Английский язык
+NLP
+Computer vision
+Python
+SQL
+Экономическое моделирование
+Git
+Pandas
+Numpy
+Python
+SQL
+MS SQL
+ООП
+docker
+kubernetes
+Spark
+dask
+Английский — B2 — Средне-продвинутый
+SQL
+Power BI
+data manipulation
+data modelling
+Английский — B1 — Средний
+MySQL
+RabbitMQ
+Celery
+Python 3.7
+Django
+Git
+Docker
+Kubernetes
+Английский — B1 — Средний
+Java
+JavaScript
+Python
+Linux
+Groovy
+C#
+. net core
+information retrieval
+elasticsearch
+Solaris
+lucene
+Python
+Java
+Python
+PostgreSQL
+Redis
+Linux
+Django Framework
+Английский — B2 — Средне-продвинутый
+Django Framework
+Английский язык
+SQL
+Python
+Python
+SQL
+C++
+MS SQL
+JavaScript
+Git
+Big Data
+Python
+Data Analysis
+Кадровый менеджмент
+AllFusion ERwin Data Modeler
+erWin
+Python
+Git
+Docker
+Celery
+RabbitMQ
+Django Framework
+Linux
+Nginx
+JavaScript
+Информационная безопасность
+Git
+Python
+Linux
+Bash
+C++
+Python
+Django Framework
+PostgreSQL
+SQL
+CSS
+Git
+RabbitMQ
+Python
+Django Framework
+JavaScript
+Git
+Redmine
+Unix Shell Scripts
+Keras
+TensorFlow
+PyTorch
+Git
+Python
+Linux
+SQL
+ООП
+Английский — A2 — Элементарный
+Python
+PostgreSQL
+websockets
+Graphql
+NSQ
+aiohttp
+asyncio
+Python
+Linux
+Git
+Deep Learning
+Computer Vision
+Pytorch
+Английский — A2 — Элементарный
+Python
+PostgreSQL
+websockets
+Graphql
+NSQ
+aiohttp
+asyncio
+Python
+MongoDB
+Linux
+Aerospike
+Python
+Django Framework
+PostgreSQL
+Redis
+SQL
+Python
+Работа в команде
+MS Access
+Контроль качества
+Аналитическое мышление
+Английский — B1 — Средний
+Работа в команде
+Python
+Математический анализ
+REST API
+C++
+Python
+Redmine
+Работа в команде
+Обучение и развитие
+Unix
+Английский — C1 — Продвинутый
+MySQL
+Python
+MySQL Alchemy
+modular programming
+concurrent programming
+Docker
+Ansible
+Python
+Django Framework
+Flask
+Git
+SQL
+Scrum
+Docker
+Английский — C1 — Продвинутый
+SQL
+Английский язык
+Работа в команде
+Работа с базами данных
+Python
+DWH
+REST
+Git
+Docker
+Django Framework
+DRF
+Python
+Unix
+Linux
+Python
+PostgreSQL
+PHP
+SQLite
+Работа с большим объемом информации
+Python
+PostgreSQL
+SQL
+MS Office
+Pascal
+Python
+C++
+Машинное обучение
+machine learning
+deep learning
+hft
+high frequency trading
+Python
+Linux
+Интернет-реклама
+HTML5
+Работа в команде
+Python
+JavaScript
+Linux
+PostgreSQL
+Python
+C++
+Machine learning
+CUDA
+OpenCV
+Neural Networks
+Python
+Python
+Django Framework
+PostgreSQL
+Git
+CSS
+Python
+Django Framework
+PostgreSQL
+MySQL
+Git
+Python
+Git
+PostgreSQL
+Django Framework
+Linux
+Python
+Big Data
+PySpark
+Hadoop
+Airflow
+A/B тесты
+Python
+Linux
+PostgreSQL
+asyncio
+Big Data
+Git
+Bitcoin
+криптография
+Python
+Django Framework
+SQL
+Работа с базами данных
+Clickhouse
+Python
+ABC-анализ
+Работа с системами аналитики
+Работа в команде
+Python
+Django Framework
+PostgreSQL
+Scrum
+Английский язык
+Python
+Django Framework
+PostgreSQL
+REST
+Nginx
+Python
+Python
+PostgreSQL
+Django Framework
+Git
+Teamleading
+Python
+R
+Machine Learning
+Computer Vision
+Big Data
+Deep Learning
+Reinforcement Learning
+PyTorch
+Tensorflow
+Python
+Python
+Python
+Django Framework
+SQL
+back-end
+Python
+Linux
+Windows
+pytest
+Python
+Golang
+Python
+Django Framework
+PostgreSQL
+Git
+Linux
+Английский — B2 — Средне-продвинутый
+Python
+Django Framework
+Vue
+Git
+Docker
+NLP
+Машинная лингвистика
+Natural language processing
+Python
+Python
+Git
+PostgreSQL
+Redis
+MongoDB
+SQL
+Flask
+Unit Testing
+Английский язык
+Django Framework
+Python
+Git
+Linux
+Базы данных
+FastApi
+Flask
+Aiohttp
+Английский — B1 — Средний
+Python
+Atlassian Jira
+Django Framework
+PostgreSQL
+Agile Project Management
+Python
+Django Framework
+SQL
+back-end
+Python
+C++
+machine learning
+Разработка ПО
+Python
+Git
+Linux
+SQL
+PostgreSQL
+Docker
+Python
+Big Data
+Tableau
+Базы данных
+Python
+Django Framework
+Git
+PostgreSQL
+Python
+Web Application Development
+Django Framework
+GitLab
+Docker
+Nginx
+Niginx
+PostgreSQL
+MongoDB
+Redis
+Celery
+Elasticsearch
+react
+AngularJS
+Airflow
+Sentry
+Grafana
+Kibana
+Prometheus
+AWS
+PyTorch
+tensorflow
+Python
+Django Framework
+MySQL
+Redis
+MongoDB
+Flask
+Scrum
+REST
+kubernetes
+docker
+InfluxDB
+Jenkins
+Git
+Python
+Mathematical Statistics
+Mathematical Programming
+Mathematical Modeling
+Python
+Big Data
+Математическая статистика
+количественные исследования
+Статистический анализ
+Математическое моделирование
+Английский — A2 — Элементарный
+Русский — A2 — Элементарный
+Python
+Пользователь ПК
+Pandas
+Numpy
+Scikit
+tensorflow
+Flask
+Starlette
+seaborn
+matplotlib
+Computer Vision
+Hypersonic Sql
+NLP
+Django Framework
+Python
+PostgreSQL
+Git
+JavaScript
+React
+HTML
+CSS
+Node.js
+Python
+Python
+QA
+Linux
+Тестирование
+testing
+codecs
+CI/CD
+Python
+Linux
+ООП
+Разработка технических заданий
+SQL Python R Machine Learning Data Mining Статистика Прикладная математика
+Python
+Django Framework
+PostgreSQL
+Git
+JavaScript
+REST
+GraphQL
+Vue.js
+Английский — B1 — Средний
+Python
+SQL
+Работа с базами данных
+Clickhouse
+PostgreSQL
+ETL
+Hadoop
+Spark
+Data Engineering
+Английский — B2 — Средне-продвинутый
+Прогнозирование
+Статистический анализ
+Бизнес-анализ
+MS Visual Studio
+Математический анализ
+Статистика
+Аналитические исследования
+Базы данных
+SQL
+Data Mining
+Английский язык
+MS SQL
+Mathcad
+Python
+R
+Python
+jQuery
+PostgreSQL
+Django Framework
+Nginx
+SQL
+Python
+Django Framework
+PostgreSQL
+Git
+Redis
+Unit Testing
+Docker
+RabbitMQ
+Asyncio
+Sanic
+Django REST
+PostgreSQL
+Python
+Django Framework
+asyncio
+MySQL
+Redis
+Sanic
+DRF
+Django REST
+Docker
+Unit Testing
+Git
+Python
+Git
+Django Framework
+PostgreSQL
+SQL
+JavaScript
+React
+HTML
+CSS
+Node.js
+Python
+Английский — B1 — Средний
+Python
+Django Framework
+Git
+SQL
+Управление временем
+DRF
+Docker
+Celery
+AWS
+PostgreSQL
+Django Framework
+Python
+Redis
+MySQL
+руководство командой разработчиков
+Английский — B1 — Средний
+Python
+SQL
+Работа с базами данных
+Python
+Odoo

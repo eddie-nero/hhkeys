@@ -1,0 +1,571 @@
+Python
+SQL
+Экономическое моделирование
+Git
+Pandas
+Numpy
+Работа с базами данных
+SQL
+Data Analysis
+Анализ данных
+Автоматизация процессов
+Python
+MySQL
+Git
+Bash
+Python
+Django Framework
+PostgreSQL
+Git
+JavaScript
+REST
+GraphQL
+Vue.js
+Python
+SQL
+Data Mining
+MS Access
+Python
+Data Mining
+SQL
+Google Analytics
+MS SQL
+Разработка нового продукта
+Базы данных
+Анализ данных
+Data Mining
+Python
+SQL
+E-Commerce
+MS SQL
+Рекомендации на сайте
+Cистемы управления базами данных
+Математическая статистика
+Анализ данных
+Python
+Data Mining
+Математическая статистика
+MongoDB
+MATLAB
+Python
+Data Mining
+SQL
+C++
+Linux
+Анализ данных
+Машинное обучение
+Machine Learning
+Data Mining
+Python
+SQL
+MS SQL
+Python
+SQL
+Data Mining
+Финансовый анализ
+Организационное развитие
+Data Mining
+Python
+Математическая статистика
+SQL
+C++
+data science
+Python
+SQL
+Microsoft Access
+Аналитический склад ума
+ETL
+Python
+Data Mining
+Data Analysis
+Python
+Data Mining
+Data Analysis
+Data Mining
+SQL
+Математическая статистика
+Python
+MS Power BI
+JavaScript
+Linux
+SQL
+Python
+Olap (online analytical processing)
+Data Mining
+Аналитическое мышление
+Базы данных
+Английский — B2 — Средне-продвинутый
+Python
+SQL
+MS PowerPoint
+SAP BI
+Data Mining
+Tableau
+Аналитические исследования
+Английский язык
+Аналитика
+Базы данных
+Анализ данных
+Аналитическое мышление
+B2B Продажи
+Управление продажами
+Ведение переговоров
+Развитие продаж
+Управление проектами
+Планирование продаж
+Mathematics
+Матстатистика
+SQL
+Python
+Аналитика
+Статистический анализ
+Статистика
+AB тесты
+Яндекс.Метрика
+Google Analytics
+SQL
+Анализ данных
+Аналитическое мышление
+Математическая статистика
+Python
+NumPy
+Английский — B1 — Средний
+Python
+Data Mining
+SQL
+Английский — A1 — Начальный
+SQL
+Data Mining
+Английский язык
+MS SQL
+Mathcad
+Python
+R
+Python
+C++
+SQL
+Аналитические исследования
+Data Mining
+Python
+Data Mining
+Linux
+Английский язык
+Работа с базами данных
+Python
+Data Mining
+SQL
+MS SQL
+C++
+Pandas
+numpy
+scikit-learn
+statsmodels
+SQL
+Работа с базами данных
+Анализ данных
+tableau
+Power BI
+Дашборды
+Python
+Django Framework
+SQL
+Моделирование
+Machine learning
+Python
+Data Mining
+Git
+Java
+SQL
+Spark
+Анализ данных
+Математическая статистика
+Машинное обучение
+ML
+Математический анализ
+Hadoop
+Python
+SQL
+Английский — B1 — Средний
+Python
+SQL
+C++
+Data Mining
+docker
+Аналитические исследования
+Python
+SQL
+MS SQL
+SVM
+Pandas
+Numpy
+scikit-learn
+Big Data
+Data Analysis
+SQL
+Python
+Data Mining
+CRM
+Tableau
+Clickhouse
+Аналитические исследования
+Статистический анализ
+MS Access
+Аналитическое мышление
+Математическое программирование
+Python
+SQL
+Математическая статистика
+Анализ данных
+Знание устройства автомобиля
+Английский — B1 — Средний
+Python
+Data Mining
+MATLAB
+Математическая статистика
+C++
+SQL
+PostgreSQL
+Статистический анализ
+Базы данных
+Cистемы управления базами данных
+MS SQL
+Английский язык
+Математическое моделирование
+Математический анализ
+Data Analysis
+Работа с базами данных
+Статистика
+Торговля
+Анализ данных
+CQG
+TWS
+Bloomberg
+Python
+MySQL
+PostgreSQL
+Oracle Pl/SQL
+SQL
+Data Mining
+Аналитические исследования
+Статистический анализ
+Аналитическое мышление
+Анализ данных
+Математический анализ
+Аналитика
+Cистемы управления базами данных
+MS SQL Server
+Python
+Разработка нового продукта
+ML
+NLP
+NLU
+Pytorch
+Английский — C1 — Продвинутый
+Python
+SQL
+Data Mining
+Английский язык
+MS PowerPoint
+Математическая статистика
+Статистический анализ
+Анализ данных
+MS Excel
+Cистемы управления базами данных
+Математический анализ
+Английский — C1 — Продвинутый
+Python
+Machine Learning
+Artificial Intelligence
+Petrel
+Techlog
+HPC
+Python
+SQL
+Oracle Pl/SQL
+Sas
+MS PowerPoint
+CRM
+Математическое моделирование
+Английский — B2 — Средне-продвинутый
+SQL
+Математическая статистика
+Работа с базами данных
+Анализ данных
+Python
+SQL
+Data Mining
+Английский язык
+MS SQL
+Mathcad
+Python
+R
+Internet Marketing
+Google Analytics
+Контекстная реклама
+Интернет-реклама
+SEO
+Яндекс.Директ
+Яндекс.Метрика
+Google AdWords
+Веб-аналитика
+Маркетинговое планирование
+Разработка маркетинговой стратегии
+Поисковая оптимизация сайтов
+Продвижение сайтов
+Медиапланирование
+Планирование рекламных кампаний
+Планирование маркетинговых кампаний
+Python
+SQL
+Hadoop
+Spark
+Hive
+Airflow
+PostgreSQL
+Английский — B2 — Средне-продвинутый
+Stock market
+Trading
+Трейдинг
+Python
+Bloomberg
+Финансовые рынки
+Торговые операции
+Python
+SQL
+Базы данных
+Python
+SQL
+Статистический анализ
+Аналитическое мышление
+Анализ данных
+Cистемы управления базами данных
+Математическое моделирование
+SQL
+Коммуникабельность
+Python
+Git
+SQL
+Linux
+PostgreSQL
+Python
+SQL
+Oracle Pl/SQL
+Sas
+MS PowerPoint
+CRM
+Математическое моделирование
+Python
+C++
+machine learning
+Разработка ПО
+аналитика
+SQL
+Python
+tableau
+Информационные технологии
+Работа с базами данных
+Математический анализ
+Python
+Python
+Big Data
+Data Analysis
+Data Mining
+Статистический анализ
+Регрессионный анализ
+Прогнозирование
+Python
+MATLAB
+C++
+Математический анализ
+Математическое моделирование
+Математическое программирование
+Математическая статистика
+Python
+VBA
+SQL
+MS PowerPoint
+Бизнес-анализ
+MS Excel
+Adobe Photoshop
+Python
+SQL
+MS SQL
+Аналитические исследования
+Аналитическое мышление
+MS PowerPoint
+Производственный контроль
+Экономический анализ
+1С: Управление Производственным Предприятием
+Производственное планирование
+Прогнозирование
+Бизнес-анализ
+Торговый маркетинг
+Планирование
+Планирование запасов
+1С: Документооборот
+1С: Производство
+Анализ данных
+Аналитическое мышление
+1С: Предприятие 8
+Английский — B2 — Средне-продвинутый
+Python
+MS SQL
+Flask
+Pandas
+Oracle Pl/SQL
+SQL
+Data Mining
+Аналитические исследования
+Статистический анализ
+Аналитическое мышление
+Анализ данных
+Математический анализ
+Аналитика
+Cистемы управления базами данных
+MS SQL Server
+Python
+Математическая статистика
+Data Mining
+SQL
+HTML5
+Less
+Git
+CSS3
+React
+JS
+Python
+SQL
+Закупка товаров и услуг
+Управленческая отчетность
+Экономический анализ
+Python
+SQL
+C++
+MS SQL
+JavaScript
+Git
+Big Data
+Английский — B1 — Средний
+Python
+SQL
+Математическая статистика
+Машинное обучение
+Data Science
+Английский — B1 — Средний
+Английский — B2 — Средне-продвинутый
+Python
+Google Analytics
+SQL
+Analytical skills
+Pandas
+Ad Hoc Analysis
+Data Analysis
+Business Analysis
+Automation
+Product Management
+Start-up project
+Marketing Analysis
+Английский — A2 — Элементарный
+Русский — A2 — Элементарный
+Python
+Пользователь ПК
+Pandas
+Numpy
+Scikit
+tensorflow
+Flask
+Starlette
+seaborn
+matplotlib
+Computer Vision
+Hypersonic Sql
+NLP
+Английский — B2 — Средне-продвинутый
+Python
+SQL
+Java
+Project management
+Английский — B1 — Средний
+Python
+Data Mining
+MATLAB
+Математическая статистика
+C++
+SQL
+PostgreSQL
+Статистический анализ
+Базы данных
+Cистемы управления базами данных
+MS SQL
+Английский язык
+Математическое моделирование
+Математический анализ
+Data Analysis
+Работа с базами данных
+Статистика
+Торговля
+Анализ данных
+CQG
+TWS
+Bloomberg
+Английский — C1 — Продвинутый
+Python
+Статистический анализ
+Яндекс.Метрика
+Google Analytics
+SQL
+Linux
+Git
+Python
+Аналитическое мышление
+SQL
+Ориентация на результат
+MS Excel
+Python
+Sas
+Математическая статистика
+NLP
+Python
+Linux
+ML
+DL
+Figma
+Adobe Photoshop
+UI
+UX
+Adobe Photoshop
+Креативность
+Рисунок
+CorelDRAW
+Start-up project
+Adobe Illustrator
+Git
+Adobe Photoshop
+Figma
+UI
+UX
+Графика
+SVN
+Adobe After Effect
+Adobe Premier Pro
+Видеомонтаж
+Английский — C1 — Продвинутый
+Python
+Machine Learning
+Artificial Intelligence
+Petrel
+Techlog
+HPC
+Google Analytics
+MS Access
+Google Tag Manager
+Гугл Аналитика
+Яндекс.Метрика
+Python
+MATLAB
+Моделирование
+численные методы
+оптимизация
+Математическое программирование
+cplex
+gurobi
