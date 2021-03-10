@@ -11,6 +11,7 @@ lxml = "*"
 autopep8 = "*"
 pandas = "*"
 numpy = "*"
+tqdm = "*"
 
 [dev-packages]
 autopep8 = "*"
