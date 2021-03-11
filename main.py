@@ -15,6 +15,7 @@ class KeySkillsSearch:
         self.n_pages = n_pages - 1
         self.top_n = top_n
         self.vacancy_hrefs = []
+        self.key_skills = []
         self.key_skill = key_skill
         self.page_number = 0
         self.url = f'https://hh.ru/search/vacancy?L_is_autosearch=false&clusters=true&enable_snippets=true&text={self.key_skill}&page='
@@ -51,23 +52,19 @@ class KeySkillsSearch:
             self.collect_vacancy_hrefs()
 
     def collect_keyskills_from_hrefs(self):
-        self.key_skills_filename = f'keyskills_{self.key_skill}_{time.time()}'
-        with open(f'{self.key_skills_filename}.txt', 'w', encoding='UTF-8') as outfile:
-            print('Начинаем извлечение скиллов')
-            for vacancy in tqdm(self.vacancy_hrefs, colour='yellow', ncols=100, unit='req'):
-                try:
-                    request = requests.get(vacancy, headers=self.my_headers)
-                except:
-                    time.sleep(5)
-                    request = requests.get(vacancy, headers=self.my_headers)
-                vac_soup = BeautifulSoup(request.content, 'lxml')
-                for key in vac_soup.find_all('span', attrs={'data-qa': 'bloko-tag__text'}):
-                    outfile.write(key.text)
-                    outfile.write('\n')
+        print('Начинаем извлечение скиллов')
+        for vacancy in tqdm(self.vacancy_hrefs, colour='yellow', ncols=100, unit='req'):
+            try:
+                request = requests.get(vacancy, headers=self.my_headers)
+            except:
+                time.sleep(5)
+                request = requests.get(vacancy, headers=self.my_headers)
+            vac_soup = BeautifulSoup(request.content, 'lxml')
+            for key in vac_soup.find_all('span', attrs={'data-qa': 'bloko-tag__text'}):
+                self.key_skills.append(key.text)
 
     def make_results(self):
-        df = pd.read_csv(f'{self.key_skills_filename}.txt',
-                         sep='\n', header=None)
+        df = pd.DataFrame(self.key_skills)
         top_skills = df.value_counts().head(self.top_n).to_frame()
         top_skills.index.names = ['Ключевой навык']
         top_skills.columns = ['Число повторений']
@@ -76,15 +73,15 @@ class KeySkillsSearch:
         print(top_skills)
 
 
-user_input = input(
-    'Введите ключевое слово для желаемой профессии, чтобы узнать какие ключевые навыки хотят видеть работодатели\n')
-num_pages_for_parse = int(input(
-    'Какое количество страниц поиска по ключевому слову Вы желаете охватить?\n(одна страница - 50 вакансий)\n'))
-top = int(input(
-    'Топ-N. Сколько самых популярных ключевых навыков Вы хотите увидеть в результате?\n'))
-
-main = KeySkillsSearch(user_input, num_pages_for_parse, top)
-main.find_number_of_search_pages()
-main.collect_vacancy_hrefs()
-main.collect_keyskills_from_hrefs()
-main.make_results()
+if __name__ == '__main__':
+    user_input = input(
+        'Введите ключевое слово для желаемой профессии, чтобы узнать какие ключевые навыки хотят видеть работодатели\n')
+    num_pages_for_parse = int(input(
+        'Какое количество страниц поиска по ключевому слову Вы желаете охватить?\n(одна страница - 50 вакансий)\n'))
+    top = int(input(
+        'Топ-N. Сколько самых популярных ключевых навыков Вы хотите увидеть в результате?\n'))
+    main = KeySkillsSearch(user_input, num_pages_for_parse, top)
+    main.find_number_of_search_pages()
+    main.collect_vacancy_hrefs()
+    main.collect_keyskills_from_hrefs()
+    main.make_results()
