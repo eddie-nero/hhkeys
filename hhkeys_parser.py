@@ -3,7 +3,6 @@ from tqdm import tqdm
 import requests
 import time
 import pandas as pd
-import numpy as np
 
 
 class KeySkillsSearch:
@@ -65,22 +64,24 @@ class KeySkillsSearch:
 
     def make_results(self):
         df = pd.DataFrame(self.key_skills)
-        top_skills = df.value_counts().head(self.top_n).to_frame()
-        top_skills.index.names = ['Ключевой навык']
-        top_skills.columns = ['Число повторений']
+        self.top_skills = df.value_counts().head(self.top_n).to_frame()
+        self.top_skills.index.names = ['Ключевой навык']
+        self.top_skills.columns = ['Число повторений']
         print('*'*30)
         print(f'ТОП-{self.top_n} ключевых навыков по Вашему запросу:')
-        print(top_skills)
+        print(self.top_skills)
+
+#top.plot(kind='barh', figsize=(12,5)).get_figure().savefig('output.jpg')
 
 
 if __name__ == '__main__':
-    user_input = input(
-        'Введите ключевое слово для желаемой профессии, чтобы узнать какие ключевые навыки хотят видеть работодатели\n')
-    num_pages_for_parse = int(input(
-        'Какое количество страниц поиска по ключевому слову Вы желаете охватить?\n(одна страница - 50 вакансий)\n'))
-    top = int(input(
+    user_input = input('Для начала работы отправьте ключевое слово для желаемой \nпрофессии, чтобы узнать какие ключевые навыки хотят видеть работодатели. \nНапример: python, back-end, маникюр или грузчик :)\n')
+    n_pages = int(input(
+        'Какое количество страниц поиска по ключевому слову Вы желаете охватить? (одна страница - 50 вакансий)\n'))
+    top_n = int(input(
         'Топ-N. Сколько самых популярных ключевых навыков Вы хотите увидеть в результате?\n'))
-    main = KeySkillsSearch(user_input, num_pages_for_parse, top)
+
+    main = KeySkillsSearch(user_input, n_pages, top_n)
     main.find_number_of_search_pages()
     main.collect_vacancy_hrefs()
     main.collect_keyskills_from_hrefs()
