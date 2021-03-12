@@ -10,6 +10,7 @@ pandas = "*"
 tqdm = "*"
 pytelegrambotapi = "*"
 environs = "*"
+matplotlib = "*"
 
 [requires]
 python_version = "3.9"

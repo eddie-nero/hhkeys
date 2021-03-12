@@ -3,6 +3,8 @@ from tqdm import tqdm
 import requests
 import time
 import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
 
 
 class KeySkillsSearch:
@@ -65,11 +67,22 @@ class KeySkillsSearch:
     def make_results(self):
         df = pd.DataFrame(self.key_skills)
         self.top_skills = df.value_counts().head(self.top_n).to_frame()
-        self.top_skills.index.names = ['Ключевой навык']
-        self.top_skills.columns = ['Число повторений']
-        print('*'*30)
-        print(f'ТОП-{self.top_n} ключевых навыков по Вашему запросу:')
-        print(self.top_skills)
+        self.top_skills.index.names = ['KeySkill']
+        self.top_skills.columns = ['N_times']
+
+        self.top_skills.reset_index(inplace=True)
+        self.filename = f'output_{self.key_skill}_{time.time()}.jpg'
+
+        def abolute_value(val):
+            a = np.round(val/100*self.top_skills['N_times'].sum(), 0)
+            return int(a)
+        labels = self.top_skills['KeySkill'].to_list()
+        fig1, ax1 = plt.subplots()
+        ax1.pie(self.top_skills['N_times'],
+                labels=labels, autopct=abolute_value)
+        ax1.axis('equal')
+        ax1.get_figure().savefig(self.filename)
+
 
 #top.plot(kind='barh', figsize=(12,5)).get_figure().savefig('output.jpg')
 

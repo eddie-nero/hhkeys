@@ -58,7 +58,8 @@ def askTopN(message):
     output.collect_vacancy_hrefs()
     output.collect_keyskills_from_hrefs()
     output.make_results()
-    msg = bot.reply_to(message, output.top_skills)
+    photo = open(output.filename, 'rb')
+    bot.send_photo(message.chat.id, photo)
 
 
 bot.polling(none_stop=True)
