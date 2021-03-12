@@ -1,5 +1,4 @@
 import telebot
-import logging
 import time
 import matplotlib.pyplot as plt
 import pandas as pd
@@ -19,8 +18,6 @@ env.read_env()
 # setup main variables
 
 bot = telebot.TeleBot(env('TOKEN'))
-# logger = telebot.logger
-# telebot.logger.setLevel(logging.DEBUG)
 task = Task()
 
 # handlers

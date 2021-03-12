@@ -11,6 +11,8 @@ tqdm = "*"
 pytelegrambotapi = "*"
 environs = "*"
 matplotlib = "*"
+lxml = "*"
+numpy = "*"
 
 [requires]
 python_version = "3.9"
