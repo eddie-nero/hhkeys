@@ -15,6 +15,7 @@ lxml = "*"
 numpy = "*"
 autopep8 = "*"
 aiohttp = "*"
+scout-apm = "*"
 
 [requires]
 python_version = "3.9"
