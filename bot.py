@@ -71,8 +71,9 @@ def askTopN(message):
         task.keySkill,
         task.numberOfSearchPages,
         task.topN).get_links()
-    skills = hh.WebScraper(links).return_skills_list()
-    skills_dataframe = hh.make_results(skills)
+    scraper = hh.WebScraper(links)
+    skills = scraper.return_skills_list()
+    skills_dataframe = hh.make_results(skills, task.topN)
     make_photo = hh.plot(skills_dataframe)
     photo = open(make_photo, 'rb')
     bot.send_photo(message.chat.id, photo,

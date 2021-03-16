@@ -39,7 +39,7 @@ class WebScraper(object):
         except Exception as e:
             print(str(e))
 
-    async def return_skills_list(self):
+    def return_skills_list(self):
         all_skills = []
         for url in self.master_dict.keys():
             all_skills.extend(self.master_dict[url]['Skills'])
@@ -92,7 +92,7 @@ class LinkCollector(object):
         return links
 
 
-def make_results(all_skills):
+def make_results(all_skills, top_n):
     df = pd.DataFrame(all_skills)
     top_skills = df.value_counts().head(top_n).to_frame()
     top_skills.index.names = ['KeySkill']
