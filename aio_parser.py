@@ -116,21 +116,4 @@ def plot(df):
 
 
 if __name__ == '__main__':
-    start = datetime.now()
-    key_skill = 'переводчик'
-    num_pages = 1
-    base_url = f'https://hh.ru/search/vacancy?L_is_autosearch=false&clusters=true&enable_snippets=true&text={key_skill}&page='
-    top_n = 10
-    all_links = get_links(base_url, num_pages)
-    scraper = WebScraper(all_links)
-    all_skills = []
-    for url in scraper.master_dict.keys():
-        all_skills.extend(scraper.master_dict[url]['Skills'])
-    df = pd.DataFrame(all_skills)
-    top_skills = df.value_counts().head(top_n).to_frame()
-    top_skills.index.names = ['KeySkill']
-    top_skills.columns = ['N-times']
-    top_skills.reset_index(inplace=True)
-    print(top_skills)
-    end = datetime.now()
-    print(f'Времени затрачено: {end - start}')
+    pass
