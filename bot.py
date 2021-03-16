@@ -1,12 +1,9 @@
 import telebot
-import time
-import matplotlib.pyplot as plt
-import pandas as pd
-import numpy as np
 import os
 from environs import Env
+from datetime import datetime
 
-import hhkeys_parser as hh
+import aio_parser as hh
 from Task import Task
 import markups
 
@@ -69,31 +66,22 @@ def askTopN(message):
         return
     bot.send_chat_action(message.chat.id, 'upload_photo')
     task.topN = int(message.text)
-    output = hh.KeySkillsSearch(
-        task.keySkill, task.numberOfSearchPages, task.topN)
-    output.find_number_of_search_pages()
-    output.collect_vacancy_hrefs()
-    output.collect_keyskills_from_hrefs()
-    output.make_results()
-    filename = f'output_{output.key_skill}_{time.time()}.png'
-
-    def plot(df):
-
-        def absolute_value(val):
-            a = np.round(val/100*df.iloc[:, 1].sum(), 0)
-            return int(a)
-
-        labels = df.iloc[:, 0].to_list()
-        fig1, ax1 = plt.subplots()
-        ax1.pie(df.iloc[:, 1], labels=labels, autopct=absolute_value)
-        ax1.axis('equal')
-        ax1.get_figure().savefig(filename)
-    plot(output.top_skills)
-    photo = open(filename, 'rb')
+    start = datetime.now()
+    links = hh.LinkCollector(
+        task.keySkill,
+        task.numberOfSearchPages,
+        task.topN).get_links()
+    skills = hh.WebScraper(links).return_skills_list()
+    skills_dataframe = hh.make_results(skills)
+    make_photo = hh.plot(skills_dataframe)
+    photo = open(make_photo, 'rb')
     bot.send_photo(message.chat.id, photo,
                    reply_markup=markups.start_markup)
+    end = datetime.now()
+    total = end - start
     task.isRunning = False
-    bot.send_message(message.chat.id, 'Чтобы начать заново, нажмите "/start"')
+    bot.send_message(
+        message.chat.id, f'Задача выполнена за {total}. Чтобы начать заново, нажмите "/start"')
 
 
 def remove_png():
