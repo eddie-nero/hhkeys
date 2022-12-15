@@ -86,7 +86,7 @@ class LinkCollector(object):
         for page in range(pages):
             target_url = url + str(page)
             soup = BeautifulSoup(self.get_html(target_url), 'lxml')
-            for a in soup.find_all('a', href=True, attrs={'data-qa': 'vacancy-serp__vacancy-title'}):
+            for a in soup.find_all('a', href=True, attrs={'data-qa': 'serp-item__title'}):
                 links.append(a['href'])
         return links
 
