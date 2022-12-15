@@ -9,8 +9,9 @@ import time
 
 
 class WebScraper(object):
-    def __init__(self, urls):
+    def __init__(self, urls, key_skill: str):
         self.urls = urls
+        self.key_skill = key_skill
         # Global Place To Store The Data:
         self.all_data = []
         self.master_dict = {}
@@ -33,7 +34,8 @@ class WebScraper(object):
         try:
             soup = BeautifulSoup(text, 'lxml')
             for key in soup.find_all('span', attrs={'data-qa': 'bloko-tag__text'}):
-                skills.append(key.text)
+                if key.text.lower() != self.key_skill.lower():
+                    skills.append(key.text)
             return skills
         except Exception as e:
             print(str(e))
